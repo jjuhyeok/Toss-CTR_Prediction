@@ -1,6 +1,4 @@
-# Toss-CTR_Prediction
-Toss-CTR_Prediction
-
+# Toss-CTR_Prediction  
 
 # Toss NEXT ML Challenge [(Link)](https://dacon.io/competitions/official/236575/overview/description)
 #### 본선 평가 진출
